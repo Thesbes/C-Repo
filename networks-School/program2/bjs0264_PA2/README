@@ -1,0 +1,11 @@
+usage: make -f makefile
+
+     ./server [port]     on csce01
+     ./client [port]     on csce02
+
+notes: Parts I did not complete:
+        Count Items in cache --FIXED
+	Removing items from cache
+	Program screws up after returning from a cache --EDIT: Sometimes error resolving host after return from cache
+		Fixes itself with another request?
+	Program crashed if list.txt does not already exist --FIXED

@@ -1,0 +1,8 @@
+To compile:
+    make
+
+To execute:
+    ./userver <port_number>
+    ./uclient <port_number>
+
+Run server on csce03

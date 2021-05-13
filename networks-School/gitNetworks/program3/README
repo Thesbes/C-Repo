@@ -1,0 +1,6 @@
+compile: $ makefile
+
+execute: ./userver <port>
+	 ./uclient <port> <filename>
+
+test: testfile provided <testfile.txt>
